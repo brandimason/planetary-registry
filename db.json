@@ -1210,6 +1210,13 @@
       "climate": "cold",
       "terrain": "rocky",
       "population": "1"
+    },
+    {
+      "id": "6faf05ef-a73c-464b-adf2-f82df8b565f3",
+      "name": "brandi",
+      "climate": "hot",
+      "terrain": "beach",
+      "population": "2"
     }
   ]
 }
